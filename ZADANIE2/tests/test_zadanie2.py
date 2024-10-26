@@ -1,5 +1,4 @@
-import pytest
-from zadanie2 import odwracanie_iteracyjnie, odwracanie_rekurencyjnie  
+from ..zadanie2 import odwracanie_iteracyjnie, odwracanie_rekurencyjnie  
 
 # Test przypadków podstawowych
 def test_odwracanie_pustej_listy():
