@@ -1,5 +1,4 @@
-import pytest
-from zadanie1 import permutacja
+from ..zadanie1 import permutacja
 
 def test_permutacja_przyklad():
     # Przykład z treści zadania: x = 1, y = 1, z = 2, n = 3
